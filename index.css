@@ -1,0 +1,57 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+#container
+{
+	width: auto;
+	overflow: hidden;
+	height: 2000px;
+	margin: 0;
+	padding: 0;
+}
+#what
+{
+    width: 100%;
+    overflow: hidden;
+	height: 500px;
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+#why
+{
+    width: 100%;
+    overflow: hidden;
+	height: 500px;
+	margin: 0;
+	padding: 0;
+	background-color: green;
+}
+#how
+{
+    width: 100%;
+    overflow: hidden;
+	height: 500px;
+	margin: 0;
+	padding: 0;
+	background-color: yellow;
+}
+#team
+{
+    width: 100%;
+    overflow: hidden;
+	height: 500px;
+	margin: 0;
+	padding: 0;
+	background-color: orange;
+}
+.textStyle
+{
+    font-size: 30px;
+    color: white;
+    font-family: Arial;
+    margin-left: 350px;
+    margin-top: 250px;
+}
